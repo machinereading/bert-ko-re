@@ -6,7 +6,7 @@ Korean Relation Extraction using BERT
 ## Introduction
 It is based on [BERT](https://github.com/google-research/bert) model. 
 We use "BERT-Base, Multilingual Cased" model for Korean.
-We share training/test data, trained model, script, and a little modified source code in this repository.
+We share training/test data, script, and a little modified source code in this repository.
 You can download a [BERT](https://github.com/google-research/bert) and [MODEL](https://storage.googleapis.com/bert_models/2018_11_23/multi_cased_L-12_H-768_A-12.zip), then easily combine to adjust a Korean RE model.
 
 ## Licenses
